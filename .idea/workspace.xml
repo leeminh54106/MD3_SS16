@@ -2,8 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a307dc2c-b98b-4f22-b5aa-e48ed7ee66b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Bai1/src/main/java/konta/bai1/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/src/main/java/ra/bai1/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai1/src/main/java/konta/bai1/controller/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/src/main/java/ra/bai1/controller/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/src/main/java/konta/tt1/controller/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/src/main/webapp/WEB-INF/views/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/src/main/webapp/WEB-INF/views/hello2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt1/src/main/webapp/indexHihi.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/src/main/java/konta/tt2/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/src/main/java/konta/tt2/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/src/main/java/konta/tt2/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/src/main/java/konta/tt2/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/src/main/webapp/WEB-INF/views/greeting.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/src/main/webapp/WEB-INF/views/hello2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt2/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,24 +45,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kDrNrXsSCEcvlp5QSuUZ3Y2YLi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/modul3/ss16",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/modul3/ss16&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722828950281</updated>
       <workItem from="1722828951490" duration="25000" />
+      <workItem from="1722829022396" duration="35000" />
     </task>
     <servers />
   </component>
